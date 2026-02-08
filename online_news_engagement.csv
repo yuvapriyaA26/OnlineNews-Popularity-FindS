@@ -1,0 +1,11 @@
+Category,Platform,Publish_Day,Article_Size,Engagement
+Technology,Social,Weekday,Short,High
+Technology,Social,Weekend,Short,High
+Technology,Traditional,Weekday,Short,High
+Sports,Traditional,Weekend,Long,Low
+Sports,Social,Weekday,Short,Low
+Entertainment,Social,Weekday,Long,Low
+Technology,Social,Weekday,Long,High
+Entertainment,Traditional,Weekend,Short,Low
+Sports,Traditional,Weekday,Long,Low
+Technology,Social,Weekend,Short,High
